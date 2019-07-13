@@ -1,0 +1,7 @@
+name: igv-test 
+
+dependencies:
+  - python>=3.7
+  - pip
+  - pip:
+    - igv-jupyter 
