@@ -1,2 +1,1 @@
-# nglview-example
-# nglview-test
+# Tests for nglview

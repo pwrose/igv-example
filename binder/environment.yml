@@ -1,7 +1,6 @@
-name: igv-test 
-
+name: nglview-test 
+channels:
+  - conda-forge
 dependencies:
   - python>=3.7
-  - pip
-  - pip:
-    - igv-jupyter 
+  - nglview=2.5.2
