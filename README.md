@@ -1,1 +1,2 @@
-# igv-example
+# nglview-example
+# nglview-test
